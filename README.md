@@ -13,5 +13,5 @@
 ## Leetcode
 
 <div align="center">
-  <img src="https://stats.justsong.cn/api/leetcode?username=sean42593919&cn=true" alt=""/>
+  <img src="https://stats.justsong.cn/api/leetcode?username=sean42593919" alt=""/>
 </div>
