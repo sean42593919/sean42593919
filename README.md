@@ -1,7 +1,7 @@
 # Welcome to My GitHub
 
 <div align="center">
-  <img src="https://count.getloli.com/@sean42593919?name=sean42593919&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="sean42593919"/>
+  <img src="https://count.getloli.com/@sean42593919?name=sean42593919&theme=booru-lewd&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto" alt="sean42593919"/>
 </div>
 
 ## Languages
